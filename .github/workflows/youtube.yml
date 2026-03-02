@@ -14,7 +14,7 @@ jobs:
       # Uses RSS to pull latest videos and write into README
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=@AiSensei_MY"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbPgTxewc1ofPsDoZjMis3g"
           max_post_count: 6
           readme_path: "./README.md"
           comment_tag_name: "YOUTUBE"
