@@ -85,4 +85,4 @@ AI experimentation in music & automation
 ⚠️ This requires GitHub Action setup (instructions below)
 
 ```markdown
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/ddrdushy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ddrdushy/ddrdushy/blob/output/github-contribution-grid-snake.svg)
