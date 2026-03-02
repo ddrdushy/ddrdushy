@@ -82,6 +82,12 @@
 
 ## 📺 Latest YouTube Uploads (Auto-updated)
 <!-- YOUTUBE:START -->
+- [HireOps AI — Fully Autonomous AI Recruiting Platform | Mistral AI Hackathon 2026](https://www.youtube.com/watch?v=bfPT4xYAN_g)
+- [Kodiyile Malliyapoo 🌸 | AI Chill Mix | Ilaiyaraaja Timeless Classic &lpar;Tamil Retro Reimagined&rpar;](https://www.youtube.com/watch?v=Zi79S4Va3JE)
+- [Kodiyile Malliyapoo 🌸 | AI Chill Mix | Ilaiyaraaja Timeless Classic #tamilremix #song  #love #tamil](https://www.youtube.com/shorts/TkpqjrdmHK4)
+- [Vaan Nila – Midnight Chill Version 🌙✨ | Tamil Classic Reborn](https://www.youtube.com/watch?v=ydlQe1bGnGw)
+- [Vaan Nila – Midnight Chill Version 🌌 | Tamil Retro Vibes #shorts   #song #aimusic #spb #msv  #love](https://www.youtube.com/shorts/senCK4iy8aM)
+- [Nalla Perai Vaanga Vendum 🔥 EDM Power Mix | TMS x MSV Classic | Tamil Fast Beat Remix](https://www.youtube.com/watch?v=9aicU-oKUg8)
 <!-- YOUTUBE:END -->
 
 <p align="center">
