@@ -63,9 +63,9 @@
 
 ## 📊 GitHub Core Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddrdushy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ddrdushy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🐍 Animated Commit Heatmap
