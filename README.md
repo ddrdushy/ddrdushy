@@ -66,8 +66,8 @@ AI experimentation in music & automation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddrdushy&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddrdushy&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 ---
@@ -85,4 +85,4 @@ AI experimentation in music & automation
 ⚠️ This requires GitHub Action setup (instructions below)
 
 ```markdown
-![Snake animation](https://github.com/ddrdushy/ddrdushy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ddrdushy/ddrdushy/output/github-contribution-grid-snake.svg)
