@@ -1,88 +1,100 @@
-<h1 align="center">Hi 👋 I'm Dushy (AI Sensei)</h1>
+<!-- ===================== CYBERPUNK AI PROFILE ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Automation+Practice+Head;AI+Architect+%7C+RPA+Expert;Founder+%7C+Multi-Agent+Systems+Builder;Tamil+AI+Music+Creator;Building+AI+Products+for+2026+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AI%20SENSEI%20%7C%20DUSHY&fontAlignY=40&desc=Automation%20%7C%20Agentic%20AI%20%7C%20Tamil%20AI%20Music&descAlignY=60&color=0:0f0c29,50:302b63,100:24243e" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Automation+Practice+Head+%F0%9F%A4%96;AI+%26+RPA+Architect+%E2%9A%99%EF%B8%8F;Founder+Mindset+%F0%9F%9A%80;Multi-Agent+Systems+Builder+%F0%9F%A7%A0;Tamil+AI+Music+Creator+%F0%9F%8E%A7" />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@AiSensei_MY">
+    <img src="https://img.shields.io/badge/YouTube-AI%20Sensei-ff0050?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/ddrdushy">
+    <img src="https://img.shields.io/badge/GitHub-ddrdushy-00f7ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ddrdushy&style=for-the-badge&color=00f7ff" />
 </p>
 
 ---
 
-## 🚀 About Me
-
+## 🧠 About Me (Founder + Cyberpunk Mode)
 - 🔥 Automation Practice Head (Malaysia)
-- 🤖 AI & RPA Architect (UiPath | Power Platform | Agentic AI)
-- 🎧 Creator of AI-generated Tamil Music
-- 🧠 Builder of Multi-Agent AI Systems
-- 💼 SaaS Founder & Product Strategist
-- 🌏 Based in Malaysia
+- 🤖 AI + RPA Architect (UiPath | Power Platform | Agentic AI)
+- 🎧 Building Tamil AI Music + AI Radio products
+- 🧩 Love: RAG, multi-agent orchestration, workflow automation, scalable platforms
 
 ---
 
-## 🧠 Currently Building
-
+## 🧪 Flagship Builds (Your Ecosystem)
 ### 🎧 Isai Alai – AI Tamil Radio
-AI-powered 24/7 Tamil online radio  
-LLM + Playlist Intelligence + YouTube Streaming
+- 24/7 Tamil AI radio experience  
+- Playlist intelligence + enrichment + YouTube streaming pipeline
 
 ### 🎛 CrowdSpin – AI DJ Platform
-Mood-based AI music orchestration  
-Multi-tenant party music platform  
-BPM-aware transitions + AI recommendations
+- Mood-based selection + BPM-aware transitions  
+- Multi-tenant party music orchestration
 
 ### 📑 AI Spec2CAD
-Automated commercial vehicle spec → CAD generation  
-RAG + AI-assisted engineering automation
+- Spec → CAD automation for commercial vehicle engineering workflows  
+- RAG + automation + validation pipelines
 
-### 🧾 Malaysia e-Invoice SaaS
-LHDN-compliant AI-driven e-invoicing platform  
-Automation + Compliance engine
-
-### 🎥 AI Sensei YouTube Channel
-AI-generated Tamil remixes  
-AI experimentation in music & automation
+### 🧾 Malaysia e-Invoice SaaS (LHDN)
+- Automation-first compliance platform  
+- SME-ready workflows + reporting + integrations
 
 ---
 
-## 🏗 Core Expertise
-
-### 🤖 Automation & RPA
-![UiPath](https://img.shields.io/badge/UiPath-FF6600?style=for-the-badge&logo=uipath&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft)
-![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF0000?style=for-the-badge)
-
-### 🧠 AI & LLM Systems
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_DB-Qdrant-blue?style=for-the-badge)
-
-### 💻 Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📊 GitHub Stats
-
+## ⚙️ Tech Arsenal (Cyber Stack)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddrdushy&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=000" />
+  <img src="https://img.shields.io/badge/FastAPI-ff00ff?style=for-the-badge&logo=fastapi&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Django-00f7ff?style=for-the-badge&logo=django&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-ff00ff?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Qdrant-00f7ff?style=for-the-badge&logo=databricks&logoColor=000" />
+  <img src="https://img.shields.io/badge/UiPath-ff00ff?style=for-the-badge&logo=uipath&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Power%20Automate-00f7ff?style=for-the-badge&logo=microsoftpowerautomate&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-ff00ff?style=for-the-badge&logo=docker&logoColor=fff" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Core Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddrdushy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrdushy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddrdushy&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ddrdushy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Animated Commit Heatmap (Snake Animation)
+## 🐍 Animated Commit Heatmap
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddrdushy/ddrdushy/output/github-contribution-grid-snake.svg" />
+</p>
 
-⚠️ This requires GitHub Action setup (instructions below)
+---
 
-```markdown
-![Snake animation](https://raw.githubusercontent.com/ddrdushy/ddrdushy/output/github-contribution-grid-snake.svg)
+## 📺 Latest YouTube Uploads (Auto-updated)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<p align="center">
+  <a href="https://www.youtube.com/@AiSensei_MY">
+    <img src="https://img.shields.io/badge/Watch%20More%20on%20YouTube-ff0050?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📬 Connect
+- 🎥 YouTube: https://www.youtube.com/@AiSensei_MY
+- 💼 LinkedIn: https://www.linkedin.com/in/ddr-dushy/
+- 📧 Email: Dushy2009@gmail.com
+
+<!-- ===================== END ===================== -->
